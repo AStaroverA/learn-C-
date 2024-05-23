@@ -34,29 +34,29 @@ namespace GitHub1
 
 
 
-            public static double operator +(DebitCard CC, double number)
+            public static double operator +(DebitCard DC, double number)
             {
-                return CC.Amount() + number;
+                return DC.Amount() + number;
             }
-            public static double operator -(DebitCard CC, double number)
+            public static double operator -(DebitCard DC, double number)
             {
-                return CC.Amount() - number;
+                return DC.Amount() - number;
             }
-            public static bool operator ==(DebitCard c1, DebitCard c2)
+            public static bool operator ==(DebitCard d1, DebitCard d2)
             {
-                return c1.Cvv() == c2.Cvv();
+                return d1.Cvv() == d2.Cvv();
             }
-            public static bool operator !=(DebitCard c1, DebitCard c2)
+            public static bool operator !=(DebitCard d1, DebitCard d2)
             {
-                return c1.Cvv() != c2.Cvv();
+                return d1.Cvv() != d2.Cvv();
             }
-            public static bool operator <(DebitCard c1, DebitCard c2)
+            public static bool operator <(DebitCard d1, DebitCard d2)
             {
-                return c1.Amount() < c2.Amount();
+                return d1.Amount() < d2.Amount();
             }
-            public static bool operator >(DebitCard c1, DebitCard c2)
+            public static bool operator >(DebitCard d1, DebitCard d2)
             {
-                return c1.Amount() < c2.Amount();
+                return d1.Amount() < d2.Amount();
             }
         }
         
@@ -65,8 +65,9 @@ namespace GitHub1
             DebitCard D1 = new DebitCard(137, 5553535, 1337.322);
             DebitCard D2 = new DebitCard(148, 19391945, 1488);
             DebitCard D3 = new DebitCard(148, 19391945, 1488);
-            
 
+
+            Console.WriteLine(D1-37);
         }
 
     }

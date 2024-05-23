@@ -1,0 +1,7 @@
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.AssemblyReference.cache
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\evil\source\repos\learn-c#\Inheritance2\Inheritance2\obj\Debug\Inheritance2.pdb

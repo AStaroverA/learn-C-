@@ -1,0 +1,15 @@
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\bin\Debug\net8.0\GitHub1.exe
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\bin\Debug\net8.0\GitHub1.deps.json
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\bin\Debug\net8.0\GitHub1.runtimeconfig.json
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\bin\Debug\net8.0\GitHub1.dll
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\bin\Debug\net8.0\GitHub1.pdb
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.AssemblyInfoInputs.cache
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.AssemblyInfo.cs
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.sourcelink.json
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.dll
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\refint\GitHub1.dll
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.pdb
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\GitHub1.genruntimeconfig.cache
+C:\Users\evil\source\repos\learn-c#\GitHub1\GitHub1\obj\Debug\net8.0\ref\GitHub1.dll
