@@ -1,0 +1,7 @@
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\bin\Debug\inheritance4.exe.config
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\bin\Debug\inheritance4.exe
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\bin\Debug\inheritance4.pdb
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\obj\Debug\inheritance4.csproj.AssemblyReference.cache
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\obj\Debug\inheritance4.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\obj\Debug\inheritance4.exe
+C:\Users\evil\source\repos\learn-c#\inheritance4\inheritance4\obj\Debug\inheritance4.pdb
