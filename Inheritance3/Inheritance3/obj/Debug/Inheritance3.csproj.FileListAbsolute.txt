@@ -1,0 +1,7 @@
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe.config
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\bin\Debug\Inheritance3.pdb
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csproj.AssemblyReference.cache
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\obj\Debug\Inheritance3.exe
+C:\Users\evil\source\repos\learn-c#\Inheritance3\Inheritance3\obj\Debug\Inheritance3.pdb
