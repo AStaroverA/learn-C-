@@ -1,0 +1,7 @@
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\bin\Debug\interface-3.exe.config
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\bin\Debug\interface-3.exe
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\bin\Debug\interface-3.pdb
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\obj\Debug\interface-3.csproj.AssemblyReference.cache
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\obj\Debug\interface-3.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\obj\Debug\interface-3.exe
+C:\Users\evil\source\repos\learn-c#\interface-3\interface-3\obj\Debug\interface-3.pdb

@@ -1,0 +1,7 @@
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\bin\Debug\Indexator.exe.config
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\bin\Debug\Indexator.exe
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\bin\Debug\Indexator.pdb
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\obj\Debug\Indexator.csproj.AssemblyReference.cache
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\obj\Debug\Indexator.csproj.CoreCompileInputs.cache
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\obj\Debug\Indexator.exe
+C:\Users\evil\source\repos\learn-c#\Indexator\Indexator\obj\Debug\Indexator.pdb

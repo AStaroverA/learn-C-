@@ -1,0 +1,68 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Indexator
+{
+    interface IIndexer
+    {
+        string this[int index]
+        {  get; set; }    
+    }
+    enum Numbers { one, two,three, four, five };
+    class IndexerClass : IIndexer
+    {
+        string[] _names = new string[5];
+        public string this[int index]
+        {
+            get
+            {
+                return _names[index];
+            }
+            set
+            {
+                _names[index] = value;
+            }
+        }
+        public string this[string index]
+        {
+            get
+            {
+                if (Enum.IsDefined(typeof(Numbers), index)) return _names[(int)Enum.Parse(typeof(Numbers), index)];
+                else return "";
+            }
+        }
+        public IndexerClass()
+        {
+            this[0] = "Bob";
+            this[1] = "Candie";
+            this[2] = "Jimmi";
+            this[3] = "Joey";
+            this[4] = "Nicole";
+        }
+    }
+    
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            IndexerClass indexerClass = new IndexerClass();
+
+            Console.WriteLine("\t\tВывод значений\n");
+            Console.WriteLine("Использование индексатора с целочисленным параметром:");
+
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(indexerClass[i]);
+            }
+            Console.WriteLine("Использование индексатора со строковым параметром:");
+            foreach (string item in Enum.GetNames(typeof(Numbers)))
+            {
+                Console.WriteLine(indexerClass[item]);
+            }
+
+        }
+    }
+}
